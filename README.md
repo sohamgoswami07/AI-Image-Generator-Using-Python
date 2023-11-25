@@ -11,7 +11,7 @@ Now you have to install OpenAI module
 Step 3:  
 Insert your API key into the programme  
 (Go to "openai.com" website and login or signup with your credentials and copy your own API key and paste it inside the code)  
-Follow the instruction properly and you good to go, run the code in your system with live server and give a structure of your imagination with AI..  
+Follow the instruction properly and you good to go, run the code using live server and give a structure of your imagination with AI..  
 
 # Warning
 Don't forget to remove your API key after use
