@@ -2,8 +2,8 @@
 Convert your text into interesting AI generated images using AI image generator..
 
 # Instruction
-Step 1:
-First you have to install the python in your system
+Step 1:..
+First you have to install the python in your system..
 (For install python go to the official website of python "https://www.python.org/" download it and install properly)
 Step 2:
 Now you have to install OpenAI module
