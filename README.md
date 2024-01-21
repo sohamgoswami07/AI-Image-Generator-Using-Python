@@ -26,4 +26,4 @@ Created and developed by Soham Goswami..
 # For any kind of coding issue or queries, feel free to connect in
 LinkedIn : https://www.linkedin.com/in/soham-goswami-2a5b84143/
 
-Thaks for showing interest..
+Thanks for showing interest..
